@@ -1,0 +1,33 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Index build artifacts (regenerate with build_index.py)
+storage/
+
+# Data directory (will be uploaded after manual review)
+data/
+
+# OS
+.DS_Store
+Thumbs.db
