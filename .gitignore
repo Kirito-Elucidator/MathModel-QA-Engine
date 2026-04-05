@@ -31,3 +31,5 @@ data/
 # OS
 .DS_Store
 Thumbs.db
+generate_flow.py
+mathmodel_qa_flow.excalidraw

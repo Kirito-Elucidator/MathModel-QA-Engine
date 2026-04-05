@@ -10,6 +10,8 @@
 [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0.14-purple)](https://www.llamaindex.ai/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+![系统架构图](assets/架构图.png)
+
 </div>
 
 ---
