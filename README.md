@@ -10,13 +10,42 @@
 [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0.14-purple)](https://www.llamaindex.ai/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-![系统架构图](assets/架构图.png)
+<h2>🏆 MCM Finalist Award (F奖)</h2>
+
+![MCM/ICM Finalist Award (F奖)](assets/Finalist%20Award.png)
 
 </div>
 
 ---
 
+## 🌟 一些体会
+
+> ✨ **雄关漫道真如铁，而今迈步从头越**
+>
+> - 从起初的亚太，到不久前的 **MathorCup**
+> - 从开始连论文排版都不会，到后来被逼成了全栈精通
+> - 从第一次打美赛拿到 **S**，到那天早上看到队友发来的 **F** 截图
+>
+> 感谢一直屡败屡战、反思调整的自己，也感谢一路以来共同进步、并肩作战的队友。🤝
+> 
+>旅程还没结束，还要复仇国赛！💪
+
+---
+
+
+
+<p align="center">
+  <img src="assets/来时路1.jpg" alt="来时路 1" height="280" />
+  <img src="assets/来时路2.jpg" alt="来时路 2" height="280" />
+</p>
+
+
+
 ## 💡 为什么做这个项目？
+
+<p align="center">
+  <img src="assets/架构图.png" alt="系统架构图" />
+</p>
 
 一切都启发于我在打美赛前准备阅读往年 O 奖论文时的苦痛，当时就联想到之前打别的比赛学习的 RAG 技术，当时的基础是 LangChain ，这次综合考虑选择了 LlamaIndex 。
 数学建模竞赛论文，特别是美赛，有一个天然的特点：**结构高度统一**。几乎所有论文都遵循 Summary → Introduction → Assumptions → Body → Sensitivity Analysis → Conclusion 这样的章节结构。
@@ -245,7 +274,7 @@ python rag_cli.py build --rebuild --show-progress
 
 ## 🤝 贡献
 
-欢迎各位数模人体验之后提交 Issue 和 Pull Request！
+欢迎各位数模人体验之后提交 Issue 和 Pull Request！也欢迎发我 Email 进行深入沟通！
 
 ## 📄 许可证
 
